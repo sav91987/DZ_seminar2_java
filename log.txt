@@ -1,0 +1,8 @@
+июн. 13, 2023 8:11:29 PM task2 BubbleSort
+INFO: [8, 6, 4, 2, 10]
+июн. 13, 2023 8:11:29 PM task2 BubbleSort
+INFO: [6, 4, 2, 8, 10]
+июн. 13, 2023 8:11:29 PM task2 BubbleSort
+INFO: [4, 2, 6, 8, 10]
+июн. 13, 2023 8:11:29 PM task2 BubbleSort
+INFO: [2, 4, 6, 8, 10]
